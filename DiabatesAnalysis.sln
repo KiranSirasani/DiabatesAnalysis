@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DiabatesAnalysis", "DiabatesAnalysis\DiabatesAnalysis.pyproj", "{77125A6D-FD12-44E7-9854-2049B4E40BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77125A6D-FD12-44E7-9854-2049B4E40BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77125A6D-FD12-44E7-9854-2049B4E40BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {392D1CDA-8B82-4C50-92EE-677002214753}
+	EndGlobalSection
+EndGlobal
